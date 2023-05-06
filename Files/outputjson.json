@@ -1,0 +1,17 @@
+[
+    {
+        "level": "WARN",
+        "Num messages": 1,
+        "Avg length": 34.0
+    },
+    {
+        "level": "ERROR",
+        "Num messages": 4,
+        "Avg length": 37.5
+    },
+    {
+        "level": "INFO",
+        "Num messages": 1,
+        "Avg length": 29.0
+    }
+]
